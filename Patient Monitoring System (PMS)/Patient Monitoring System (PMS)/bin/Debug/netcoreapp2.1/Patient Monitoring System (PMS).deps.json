@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Patient Monitoring System (PMS)/1.0.0": {
+        "runtime": {
+          "Patient Monitoring System (PMS).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Patient Monitoring System (PMS)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

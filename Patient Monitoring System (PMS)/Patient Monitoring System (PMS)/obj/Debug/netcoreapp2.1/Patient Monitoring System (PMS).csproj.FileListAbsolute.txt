@@ -1,0 +1,21 @@
+C:\Users\hassnain.ali\source\repos\Patient Monitoring System (PMS)\Patient Monitoring System (PMS)\bin\Debug\netcoreapp2.1\Patient Monitoring System (PMS).deps.json
+C:\Users\hassnain.ali\source\repos\Patient Monitoring System (PMS)\Patient Monitoring System (PMS)\bin\Debug\netcoreapp2.1\Patient Monitoring System (PMS).runtimeconfig.json
+C:\Users\hassnain.ali\source\repos\Patient Monitoring System (PMS)\Patient Monitoring System (PMS)\bin\Debug\netcoreapp2.1\Patient Monitoring System (PMS).runtimeconfig.dev.json
+C:\Users\hassnain.ali\source\repos\Patient Monitoring System (PMS)\Patient Monitoring System (PMS)\bin\Debug\netcoreapp2.1\Patient Monitoring System (PMS).dll
+C:\Users\hassnain.ali\source\repos\Patient Monitoring System (PMS)\Patient Monitoring System (PMS)\bin\Debug\netcoreapp2.1\Patient Monitoring System (PMS).pdb
+C:\Users\hassnain.ali\source\repos\Patient Monitoring System (PMS)\Patient Monitoring System (PMS)\obj\Debug\netcoreapp2.1\Patient Monitoring System (PMS).csprojAssemblyReference.cache
+C:\Users\hassnain.ali\source\repos\Patient Monitoring System (PMS)\Patient Monitoring System (PMS)\obj\Debug\netcoreapp2.1\Patient Monitoring System (PMS).csproj.CoreCompileInputs.cache
+C:\Users\hassnain.ali\source\repos\Patient Monitoring System (PMS)\Patient Monitoring System (PMS)\obj\Debug\netcoreapp2.1\Patient Monitoring System (PMS).AssemblyInfoInputs.cache
+C:\Users\hassnain.ali\source\repos\Patient Monitoring System (PMS)\Patient Monitoring System (PMS)\obj\Debug\netcoreapp2.1\Patient Monitoring System (PMS).AssemblyInfo.cs
+C:\Users\hassnain.ali\source\repos\Patient Monitoring System (PMS)\Patient Monitoring System (PMS)\obj\Debug\netcoreapp2.1\Patient Monitoring System (PMS).dll
+C:\Users\hassnain.ali\source\repos\Patient Monitoring System (PMS)\Patient Monitoring System (PMS)\obj\Debug\netcoreapp2.1\Patient Monitoring System (PMS).pdb
+C:\Users\hassnain.ali\Desktop\Design Pattern Work\Patient Monitoring System (PMS)\Patient Monitoring System (PMS)\bin\Debug\netcoreapp2.1\Patient Monitoring System (PMS).deps.json
+C:\Users\hassnain.ali\Desktop\Design Pattern Work\Patient Monitoring System (PMS)\Patient Monitoring System (PMS)\bin\Debug\netcoreapp2.1\Patient Monitoring System (PMS).runtimeconfig.json
+C:\Users\hassnain.ali\Desktop\Design Pattern Work\Patient Monitoring System (PMS)\Patient Monitoring System (PMS)\bin\Debug\netcoreapp2.1\Patient Monitoring System (PMS).runtimeconfig.dev.json
+C:\Users\hassnain.ali\Desktop\Design Pattern Work\Patient Monitoring System (PMS)\Patient Monitoring System (PMS)\bin\Debug\netcoreapp2.1\Patient Monitoring System (PMS).dll
+C:\Users\hassnain.ali\Desktop\Design Pattern Work\Patient Monitoring System (PMS)\Patient Monitoring System (PMS)\bin\Debug\netcoreapp2.1\Patient Monitoring System (PMS).pdb
+C:\Users\hassnain.ali\Desktop\Design Pattern Work\Patient Monitoring System (PMS)\Patient Monitoring System (PMS)\obj\Debug\netcoreapp2.1\Patient Monitoring System (PMS).csprojAssemblyReference.cache
+C:\Users\hassnain.ali\Desktop\Design Pattern Work\Patient Monitoring System (PMS)\Patient Monitoring System (PMS)\obj\Debug\netcoreapp2.1\Patient Monitoring System (PMS).AssemblyInfoInputs.cache
+C:\Users\hassnain.ali\Desktop\Design Pattern Work\Patient Monitoring System (PMS)\Patient Monitoring System (PMS)\obj\Debug\netcoreapp2.1\Patient Monitoring System (PMS).AssemblyInfo.cs
+C:\Users\hassnain.ali\Desktop\Design Pattern Work\Patient Monitoring System (PMS)\Patient Monitoring System (PMS)\obj\Debug\netcoreapp2.1\Patient Monitoring System (PMS).dll
+C:\Users\hassnain.ali\Desktop\Design Pattern Work\Patient Monitoring System (PMS)\Patient Monitoring System (PMS)\obj\Debug\netcoreapp2.1\Patient Monitoring System (PMS).pdb
